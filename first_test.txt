@@ -1,3 +1,0 @@
-This is first test file.
-
-Now I have added new brach so this is my second push...
